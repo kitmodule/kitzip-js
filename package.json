@@ -1,0 +1,35 @@
+{
+    "name": "@kitmodule/kitzip",
+    "version": "1.0.0",
+    "description": "Generate ZIP files in vanilla JavaScript lightweight, dependency-free, and easy to use.",
+    "homepage": "https://github.com/kitmodule/kitzip-js",
+    "bugs": {
+        "url": "https://github.com/kitmodule/kitzip-js/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kitmodule/kitzip-js.git"
+    },
+    "author": "Huỳnh Nhân Quốc (https://github.com/huynhnhanquoc)",
+    "license": "MIT",
+    "main": "dist/kitzip.js",
+    "unpkg": "dist/kitzip.min.js",
+    "jsdelivr": "dist/kitzip.min.js",
+    "files": [
+        "dist",
+        "src"
+    ],
+    "keywords": [
+        "zip",
+        "compress",
+        "javascript",
+        "vanilla-js",
+        "archive",
+        "kitzip",
+        "kitmodule"
+    ],
+    "scripts": {
+        "build": "echo 'build step here'",
+        "prepublishOnly": "npm run build"
+    }
+}
