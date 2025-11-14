@@ -2,7 +2,7 @@
 
 **Generate ZIP files in vanilla JavaScript — lightweight, chainable, and dependency-free.**
 
-[English](#) | [Tiếng Việt](https://github.com/kitmodule/kitzip-js/blob/master/readme-vi.md)
+[English](#) | [Tiếng Việt](https://github.com/kitmodule/kitzip-js/blob/master/README.vi.md)
 
 [![npm version](https://img.shields.io/npm/v/@kitmodule/kitzip.svg)](https://www.npmjs.com/package/@kitmodule/kitzip)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/kitmodule/kitzip-js/blob/master/LICENSE)
